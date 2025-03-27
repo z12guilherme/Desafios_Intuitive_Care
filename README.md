@@ -14,7 +14,7 @@ O repositório está organizado em quatro pastas, cada uma contendo um conjunto 
 ```
 /Teste_scrapping   -> Coleta e extração de dados da web
 /Teste_transdados  -> Transformação e tratamento de dados
-/Teste_sql         -> Manipulação e consultas em banco de dados
+/Teste_bd         -> Manipulação e consultas em banco de dados
 /Teste_API         -> Resolução de problemas com API
 ```
 
