@@ -52,4 +52,4 @@ Cada pasta contém os arquivos necessários para a execução e análise dos res
 O código foi desenvolvido com foco na qualidade, clareza e eficiência, seguindo boas práticas recomendadas para desenvolvimento de software.  
 
 ---  
-🔗 [Meu GitHub](https://github.com/z12guilherme) | ✉️ [Contato](mguimarcos39@gmail.com)
+🔗 [Meu GitHub](https://github.com/z12guilherme) | ✉️ [Contato](mailto:mguimarcos39@gmail.com)
