@@ -23,7 +23,7 @@ Cada pasta contém os arquivos necessários para a execução e análise dos res
 ## 🚀 Como executar os testes  
 1. Clone o repositório:  
    ```sh
-   git clone https://github.com/z12guilherme/nome-do-repositorio.git](https://github.com/z12guilherme/Desafios_Intuitive_Care
+   git clone https://github.com/z12guilherme/Desafios_Intuitive_Care
    ```
 2. Acesse o diretório do projeto:  
    ```sh
